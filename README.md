@@ -1,4 +1,4 @@
-# cupp
+_pratishtha_.1#cupp
 > Common User Password Profiler
 
 -----
@@ -68,4 +68,4 @@ This tool is originally designed by [**Mebus**](https://github.com/Mebus) [here]
 - [Twitter](https://twitter.com/thehackersbrain)
 - [LinkedIn](https://www.linkedin.com/in/thehackersbrain)
 - [Instagram](https://instagram.com/thehackersbrain)
-- [More Projects](https://github.com/thehackersbrain?tab=repositories)
+- [More Projects](https://github.com/thehackersbrain?tab=reposito_pratish #
